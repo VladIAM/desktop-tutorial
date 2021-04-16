@@ -1,1 +1,1 @@
-# Directory for public images
+Directory for public images
